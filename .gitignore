@@ -51,6 +51,7 @@ frontend/localhost-key.pem
 
 # --- Docker / Build ---
 **/Dockerfile
+**/Dockerfile.*
 **/docker-compose*.yml
 docker-compose.override.yml
 *.tar
